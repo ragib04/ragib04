@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm MD RAGIB IMRAN</h1>
 <h3 align="center">A passionate Software Engineer and a Competitive Programmer :)</h3>
 
