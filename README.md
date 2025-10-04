@@ -33,5 +33,5 @@
   <img align="right" alt="MD RAGIB IMRAN | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <a href="(https://www.linkedin.com/in/mdragib04/)">
-  <img align="right" alt="Aman Mandal | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img align="right" alt="MD RAGIB IMRAN | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
