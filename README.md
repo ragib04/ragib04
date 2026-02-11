@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD RAGIB IMRAN</h1>
 <h3 align="center">A passionate Software Engineer and a Competitive Programmer :)</h3>
 
-- 🌱 I’m currently learning **Node,JavaScript,Data structure & Algorithm**
+- 🌱 Currently focused on **Backend Development with Node.js** and mastering **Data Structures & Algorithms**.
 
 - 📫 How to reach me **https:(https://www.linkedin.com/in/mdragib04/)**
 
