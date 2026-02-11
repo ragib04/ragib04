@@ -29,9 +29,13 @@
 
 
 
-<a href="[https://x.com/md_ragib53829]">
-  <img align="right" alt="MD RAGIB IMRAN | Twitter "src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+<a href="https://x.com/md_ragib53829" target="_blank">
+  <img align="right" alt="MD RAGIB IMRAN | Twitter"
+       src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
-<a href="(https://www.linkedin.com/in/mdragib04/)">
-  <img align="right" alt="MD RAGIB IMRAN | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+
+<a href="https://www.linkedin.com/in/mdragib04/" target="_blank">
+  <img align="right" alt="MD RAGIB IMRAN | LinkedIn"
+       src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
+
