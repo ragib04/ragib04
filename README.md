@@ -46,22 +46,15 @@
 ## 💼 Key Projects
 
 ### 🌐[Redis-Clone]
-- Educational platform for coaching centers  
-- Built with React.js, Node.js, SQL  
-- Features: Online exams, course management, student dashboards, Admin Panel 
+- Designed a Redis-like in-memory data store using OOP and design patterns
+- Built 11 core functionalities (GET, SET, EXPIRE, DELETE, ZADD, ZRANGE, ZRANK, ZREVRANK,
+ZREVRANGE, TTL, PING)
+- Built persistence using append-only logging for reliable data recovery
 
-###  🏥[DocNest](https://docnest-z4gx.onrender.com/) 
-- Full-stack doctor appointment platform with secure authentication, CRUD operations, booking workflows, and integrated payment system (Razorpay)
-- Built with Node.js, Express.js, MongoDB using MVC architecture for maintainability 
-- Frontend with React.js for responsive and user-friendly interface
-- Deployed on Render, ensuring fast load times and cross-device compatibility
-
-### 💻[Portfolio Website](https://souravmahata.vercel.app/)  
-- Personal portfolio built with React.js and Tailwind CSS
-- Integrated NodeMailer for contact form functionality
-- Deployed on Vercel with smooth animations and interactive UI
-
-
+###  🏥[Streamify – Video Streaming Platform](https://github.com/ragib04/You_Tube/) 
+- Developed a video streaming platform with efficient content delivery
+- Implemented Live Chat, Smart Search (Debouncing), Nested Comments, and Shimmer UI
+- Enhanced user experience through responsive UI and optimized state managemen
 
 ---
 
