@@ -3,7 +3,7 @@
     <td style="padding-right:20px; vertical-align: top;">
       Hi, I'm MD RAGIB IMRAN 👋<br>
       🎓 A passionate Software Engineer and a Competitive Programmer :)<br>
-      🔹 Skilled in Python, React.js, Node.js, Express.js, MongoDB, JavaScript, and DSA in C++<br>
+      🔹 Skilled in C++, Python, React.js, Node.js, Express.js, MongoDB, JavaScript, and DSA in C++<br>
       🔹 Passionate about building scalable web apps, mentoring peers, and solving real-world problems
     </td>
     <td style="vertical-align: top;">
