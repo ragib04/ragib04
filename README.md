@@ -1,14 +1,14 @@
 <table>
   <tr>
-    <td style="padding-right:20px; vertical-align: top;">
+    <!-- <td style="padding-right:20px; vertical-align: top;"> -->
       Hi, I'm MD RAGIB IMRAN 👋<br>
       🎓 A passionate Software Engineer and a Competitive Programmer :)<br>
       🔹 Skilled in C++, Python, React.js, Node.js, Express.js, MongoDB, JavaScript, and DSA in C++<br>
       🔹 Passionate about building scalable web apps, mentoring peers, and solving real-world problems
-    </td>
-    <td style="vertical-align: top;">
+    <!-- </td> -->
+    <!-- <td style="vertical-align: top;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRpd2UyZThsNjdvOXlpaGI0ejYxajhqaXRnZ2Vnc2dlc3RkbW9yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="400">
-    </td>
+    </td> -->
   </tr>
 </table>
 
