@@ -37,8 +37,8 @@
 - 👨‍💻**Programming & Fundamentals:**  C++, javaScript, SQL, Python Data Structures & Algorithms, OOPs, DBMS
 - 🌐**Frontend:** React.js, Tailwind CSS, HTML5, CSS3
 - 🛠️**Backend:** Python, Node.js, Express.js, REST APIs, JWT Authentication 
-- 🗃️**Database:** MongoDB  
-- 🧰**Other Tools:** Git, GitHub, VsCode Vercel, Postman,
+- 🗃️**Database:** MongoDB, SQL, Redis
+- 🧰**Other Tools:** Git, GitHub, VsCode Vercel, Postman render
 - 🏆**Best Practices:** Debugging, Unit Testing, Clean Code, Agile Collaboration
 
 ---
